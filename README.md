@@ -1,5 +1,7 @@
 # MeuPrimeiroProjeto
 
+Projeto criado através do vídeo https://www.youtube.com/watch?v=VumdXFJ4n7o, para aprender os comandos básicos do Angular!
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
 
 ## Development server
